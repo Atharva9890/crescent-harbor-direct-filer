@@ -3,8 +3,8 @@
     {
       "scenario": "01-aurora-borealis",
       "outcome": "accepted",
-      "manifestId": "CH-8BCC9D73C7CFC546A2DE99",
-      "receiptId": "5A4EBBD486D32BA7",
+      "manifestId": "CH-525BEB30ADFC61262F9111",
+      "receiptId": "9E6D3B656BA009EA",
       "schemaErrors": null,
       "ruleErrors": null,
       "warnings": null,
@@ -14,8 +14,8 @@
     {
       "scenario": "02-pacific-crest",
       "outcome": "accepted",
-      "manifestId": "CH-8438B2F7E58C5D78D741A9",
-      "receiptId": "ADCF46304EAD2C74",
+      "manifestId": "CH-B6D4BB5C6EC418AA728E48",
+      "receiptId": "6C63C4AF55DFEAB3",
       "schemaErrors": null,
       "ruleErrors": null,
       "warnings": [
@@ -32,8 +32,8 @@
     {
       "scenario": "03-star-of-helios",
       "outcome": "accepted",
-      "manifestId": "CH-0DF3E69F9635F45AAABAF3",
-      "receiptId": "B62A14467D3CD640",
+      "manifestId": "CH-0F20BB4711C3C4538D11DD",
+      "receiptId": "152EDD87E230C8CC",
       "schemaErrors": null,
       "ruleErrors": null,
       "warnings": null,
@@ -43,8 +43,8 @@
     {
       "scenario": "04-iron-brigade",
       "outcome": "accepted",
-      "manifestId": "CH-6E341A6D92E8F07E55078A",
-      "receiptId": "FFC452F4D282EB27",
+      "manifestId": "CH-9EE619EF5A7B131040ECBB",
+      "receiptId": "A001E1CD0D4C28A9",
       "schemaErrors": null,
       "ruleErrors": null,
       "warnings": null,
@@ -54,8 +54,8 @@
     {
       "scenario": "05-silver-mariner",
       "outcome": "accepted",
-      "manifestId": "CH-F9F3BB052C7364328650A0",
-      "receiptId": "325EFBC992EAA427",
+      "manifestId": "CH-202C80BE1DB615E9A383D2",
+      "receiptId": "808D78FCC387E0C8",
       "schemaErrors": null,
       "ruleErrors": null,
       "warnings": null,
@@ -65,8 +65,8 @@
     {
       "scenario": "06-northern-lights",
       "outcome": "accepted",
-      "manifestId": "CH-6361B3122DB26AEBAA5240",
-      "receiptId": "4C8FA1C394E4887D",
+      "manifestId": "CH-F428F077571D4E4A8683D5",
+      "receiptId": "14A7E95C5378B94B",
       "schemaErrors": null,
       "ruleErrors": null,
       "warnings": [
@@ -83,7 +83,7 @@
     {
       "scenario": "07-tempest",
       "outcome": "rejected_by_rules",
-      "manifestId": "CH-DBC5E0A351A124F0674CC9",
+      "manifestId": "CH-649199299A9EDF7652D15A",
       "receiptId": null,
       "schemaErrors": null,
       "ruleErrors": [
@@ -101,7 +101,7 @@
     {
       "scenario": "08-polaris",
       "outcome": "rejected_by_schema",
-      "manifestId": "CH-02DE5B36AFA2B38C6D0179",
+      "manifestId": "CH-EDF9596623E722D13FFF1F",
       "receiptId": null,
       "schemaErrors": [
         {
